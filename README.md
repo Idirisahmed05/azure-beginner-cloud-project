@@ -112,3 +112,6 @@ Phase 6: CI/CD Deployment to Azure Static Site
 - [x] Live website confirms full pipeline success
 
 🔗 Live Site: [Visit Site] https://idiriswebstorage.z33.web.core.windows.net/
+
+![Azure Static Website Screenshot] ![Static Site ](https://github.com/user-attachments/assets/1d848f4f-cd09-42a9-88b2-c2b133d04b25)
+
