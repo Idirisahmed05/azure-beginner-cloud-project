@@ -83,4 +83,25 @@ Key Vault Overview:
 Secret Value:
 ![Secret] ![Secrets-kv](https://github.com/user-attachments/assets/8af0e07d-0866-4622-9b6b-13c56d322982)
 
+---
+
+Phase 5: Azure Monitor + Alerts
+
+- [x] Enabled Azure Monitor Agent
+- [x] Connected to Log Analytics
+- [x] Viewed CPU/memory/disk insights
+- [x] Created alert for CPU > 40%
+- [x] Triggered alert and received email
+
+Monitoring Dashboard:
+[Monitoring] ![Insight-Dashboard-Az Monitor](https://github.com/user-attachments/assets/143faaf0-08c9-44f6-bc17-1ddd1269aee1)
+
+
+Alert Rule:
+(./screenshots/vm-alert.png) ![Az Monitor - Alert](https://github.com/user-attachments/assets/9fc4c178-dae7-42fb-9c6f-a9a63a4d4ea1)
+
+
+📧 Email received at: Az90000525@outlook.com
+
+
 
