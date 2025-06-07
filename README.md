@@ -103,5 +103,12 @@ Alert Rule:
 
 📧 Email received at: Az90000525@outlook.com
 
+Phase 6: CI/CD Deployment to Azure Static Site
 
+- [x] Set up static site hosting in Azure
+- [x] Created GitHub Actions deploy workflow
+- [x] Added secrets for secure access
+- [x] Automatically deployed from GitHub to Azure
+- [x] Live website confirms full pipeline success
 
+🔗 Live Site: [Visit Site] https://idiriswebstorage.z33.web.core.windows.net/
