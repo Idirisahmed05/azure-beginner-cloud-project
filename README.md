@@ -25,3 +25,4 @@ This phase involved creating the foundation of the cloud infrastructure, includi
 
 ![subnet-nsg-link](https://github.com/user-attachments/assets/e458f55a-3490-4464-aa7e-c985f2ef27cd)
 
+[Cloud Build Tracker Project Board] https://github.com/users/Idirisahmed05/projects/2
