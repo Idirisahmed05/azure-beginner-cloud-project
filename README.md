@@ -5,6 +5,7 @@ Hands-on Azure cloud project covering core infrastructure: networking, virtual m
 
 Phase 1: Azure Environment Setup
 
+
 This phase involved creating the foundation of the cloud infrastructure, including networking and firewall configurations.
 
   What I Built
@@ -44,3 +45,24 @@ VM Overview:
 
 Live Web Page:
 ![Web Page] ![Html](https://github.com/user-attachments/assets/dd0ec92f-3bcf-4c41-88bf-b8c82a834f33)
+
+
+---
+
+
+Phase 3: Azure Blob Storage + Static Website
+
+- [x] Created a storage account
+- [x] Enabled static website hosting
+- [x] Uploaded index.html
+- [x] Accessed public site from Azure web endpoint
+
+Storage Container:
+![Blob Container] ![Container](https://github.com/user-attachments/assets/d809908d-475b-4d2a-ab51-50d922cdd48b)
+
+
+Live Website:
+![Static Website] ![Live Website](https://github.com/user-attachments/assets/0503642e-a5f7-4091-8754-aeb78117df96)
+
+
+📎 Website URL: [View it live] https://idiriswebstorage.z33.web.core.windows.net/
