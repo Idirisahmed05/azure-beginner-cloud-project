@@ -27,3 +27,20 @@ This phase involved creating the foundation of the cloud infrastructure, includi
 ![subnet-nsg-link](https://github.com/user-attachments/assets/e458f55a-3490-4464-aa7e-c985f2ef27cd)
 
 [Cloud Build Tracker Project Board] https://github.com/users/Idirisahmed05/projects/2
+
+---
+
+Phase 2: Windows VM + IIS Web Server
+
+- [x] Deployed Windows Server 2022 VM in WebSubnet1
+- [x] Connected via RDP
+- [x] Installed IIS using PowerShell or Server Manager
+- [x] Served a custom index.html page
+
+VM Overview:
+![WinWebVM] ![WinWebVM](https://github.com/user-attachments/assets/f1894d8b-0f19-4831-a919-73114b62a91a)
+
+
+
+Live Web Page:
+![Web Page] ![Html](https://github.com/user-attachments/assets/dd0ec92f-3bcf-4c41-88bf-b8c82a834f33)
