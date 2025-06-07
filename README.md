@@ -1,5 +1,6 @@
 # azure-beginner-cloud-project
-Step-by-step Azure cloud infrastructure build with VM, storage, CI/CD, and monitoring
+Hands-on Azure cloud project covering core infrastructure: networking, virtual machines, storage, CI/CD pipelines, and monitoring — fully deployed in the Azure Portal.
+
 ---
 
 Phase 1: Azure Environment Setup
