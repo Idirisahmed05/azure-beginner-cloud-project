@@ -66,3 +66,21 @@ Live Website:
 
 
 📎 Website URL: [View it live] https://idiriswebstorage.z33.web.core.windows.net/
+
+---
+
+Phase 4: Azure Key Vault + Secrets
+
+- [x] Created a Key Vault
+- [x] Stored a fake API key
+- [x] Retrieved the secret in the portal
+- [x] Managed access via Azure RBAC
+
+Key Vault Overview:
+![Key Vault] ![idiris-kv](https://github.com/user-attachments/assets/9239a915-cf9c-4147-b789-ddb6d3c53181)
+
+
+Secret Value:
+![Secret] ![Secrets-kv](https://github.com/user-attachments/assets/8af0e07d-0866-4622-9b6b-13c56d322982)
+
+
